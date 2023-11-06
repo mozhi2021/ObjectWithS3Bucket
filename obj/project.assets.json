@@ -3809,11 +3809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\MyGDrive\\MyGitHub\\Vidhyalaya\\NewTestProject\\NewTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MyGDrive\\MyGitHub\\S3Examples\\ObjectWithS3Bucket\\NewTestProject.csproj",
       "projectName": "NewTestProject",
-      "projectPath": "C:\\Users\\User\\Desktop\\MyGDrive\\MyGitHub\\Vidhyalaya\\NewTestProject\\NewTestProject.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MyGDrive\\MyGitHub\\S3Examples\\ObjectWithS3Bucket\\NewTestProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\MyGDrive\\MyGitHub\\Vidhyalaya\\NewTestProject\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MyGDrive\\MyGitHub\\S3Examples\\ObjectWithS3Bucket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3897,7 +3897,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-            "version": "[6.0.22, 6.0.22]"
+            "version": "[6.0.24, 6.0.24]"
           }
         ],
         "frameworkReferences": {
@@ -3908,7 +3908,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },
